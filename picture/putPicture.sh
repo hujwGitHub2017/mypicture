@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 git add .
 sleep 1s
 git commit -m "put picture"
